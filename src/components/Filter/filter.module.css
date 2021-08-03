@@ -1,0 +1,9 @@
+.filterLabel {
+    margin-top: 0;
+    font-weight: 500;
+}
+.filterInput {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}

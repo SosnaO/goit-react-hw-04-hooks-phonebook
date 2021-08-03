@@ -1,0 +1,28 @@
+  .phonebook{
+    margin: 10px;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(148, 142, 142);
+    padding: 30px;
+  }
+  .formLabel {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: 500;
+  }
+  .formInput {
+    display: flex;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  .buttonSubmit {
+    margin-right: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+     background: cornflowerblue;
+  }
